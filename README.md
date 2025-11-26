@@ -96,11 +96,7 @@ For questions or licensing inquiries, please contact:
 
 **Alexander Smith**  
 alex_smith321@yahoo.com
-
 SwissMailBox - 397
-
 12 Rue Le Corbusier
-
 1208 Gevena
-
 Switzerland
