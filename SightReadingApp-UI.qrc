@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/BassSettings.qml</file>
+        <file>UI/Main.qml</file>
+        <file>UI/RangeSelector.qml</file>
+        <file>UI/SetGoal.qml</file>
+        <file>UI/Settings.qml</file>
+        <file>UI/SightReadingActive.qml</file>
+        <file>UI/StartPage.qml</file>
+        <file>UI/TrebleSettings.qml</file>
+        <file>UI/Common/Controls/MainButton.qml</file>
+        <file>UI/Common/Controls/SwitchButton.qml</file>
+    </qresource>
+</RCC>

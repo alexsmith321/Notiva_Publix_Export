@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/Common/Images/ComposerPortraits/bach.svg</file>
+        <file>UI/Common/Images/ComposerPortraits/beethoven.svg</file>
+        <file>UI/Common/Images/ComposerPortraits/Debussy.png</file>
+        <file>UI/Common/Images/ComposerPortraits/haydn.png</file>
+        <file>UI/Common/Images/ComposerPortraits/mozart.png</file>
+        <file>UI/Common/Images/ComposerPortraits/mozart_black.png</file>
+        <file>UI/Common/Images/bass-clef-manuscript-style.png</file>
+        <file>UI/Common/Images/Button-Overlay-parchment.png</file>
+        <file>UI/Common/Images/flat.svg</file>
+        <file>UI/Common/Images/Next.svg</file>
+        <file>UI/Common/Images/Notiva-Logo.png</file>
+        <file>UI/Common/Images/Notiva-Logo-Smoothed.png</file>
+        <file>UI/Common/Images/noun-sharp.svg</file>
+        <file>UI/Common/Images/parchment_paper.png</file>
+        <file>UI/Common/Images/sharp.svg</file>
+        <file>UI/Common/Images/logo.png</file>
+        <file>UI/Common/Images/treble-clef-manuscript-style.png</file>
+        <file>UI/Common/Fonts/Allura-Regular.ttf</file>
+        <file>UI/Common/Fonts/EBGaramond-Bold.ttf</file>
+        <file>UI/Common/Fonts/EBGaramond-BoldItalic.ttf</file>
+        <file>UI/Common/Fonts/EBGaramond-ExtraBold.ttf</file>
+        <file>UI/Common/Fonts/EBGaramond-ExtraBoldItalic.ttf</file>
+        <file>UI/Common/Fonts/EBGaramond-Italic.ttf</file>
+        <file>UI/Common/Fonts/EBGaramond-Medium.ttf</file>
+        <file>UI/Common/Fonts/EBGaramond-MediumItalic.ttf</file>
+        <file>UI/Common/Fonts/EBGaramond-Regular.ttf</file>
+        <file>UI/Common/Fonts/EBGaramond-SemiBold.ttf</file>
+        <file>UI/Common/Fonts/EBGaramond-SemiBoldItalic.ttf</file>
+    </qresource>
+</RCC>

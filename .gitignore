@@ -1,0 +1,31 @@
+# Ignore build outputs
+build/
+cmake-build*/
+*.aab
+*.apk
+
+# Ignore proprietary assets (none should be here)
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
+*.webp
+*.ttf
+*.otf
+*.mp3
+*.wav
+
+# Ignore IDE files
+*.user
+*.pro.user
+*.qmlc
+*.jsc
+.DS_Store
+
+# Ignore Qt Creator generated files
+*.qmlproject.user*
+
+# Ignore CMake cache
+CMakeCache.txt
+CMakeFiles/
